@@ -1,6 +1,10 @@
-package com.shuaijie.factorytest;
+package com.shuaijie.abstractFactory;
 
-public class ShapeFactory {
+public class ShapeFactory extends AbstractFactory{
+
+    Color getColor(String color) {
+        return null;
+    }
 
     //使用getShape方法获取形状类型的对象
     public Shape getShape(String shapeType) {

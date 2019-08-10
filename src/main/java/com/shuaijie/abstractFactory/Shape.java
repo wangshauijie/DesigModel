@@ -1,4 +1,4 @@
-package com.shuaijie.factorytest;
+package com.shuaijie.abstractFactory;
 
 public interface Shape {
 

@@ -1,6 +1,6 @@
-package com.shuaijie.factorytest;
+package com.shuaijie.abstractFactory;
 
-public class Circle implements Shape{
+public class Circle implements Shape {
     public void draw() {
         System.out.println("Inside Circle::draw() method.");
     }

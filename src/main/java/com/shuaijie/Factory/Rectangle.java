@@ -1,4 +1,4 @@
-package com.shuaijie.factorytest;
+package com.shuaijie.Factory;
 
 public class Rectangle implements Shape {
 
